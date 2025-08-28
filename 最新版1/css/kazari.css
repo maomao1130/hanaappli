@@ -1,0 +1,15 @@
+#page{
+ width:980px;
+ margin:0 auto;
+ background-color:#ffffff;
+}
+
+#headline{
+ background-color:#ffc0cb;
+}
+
+h2,h3{
+ color:#000000;
+ border-bottom:solid 4px #ffc0cb;
+ padding: 5px 5px;
+}
